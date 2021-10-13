@@ -8,7 +8,7 @@ import { AddArea } from './components/AddArea';
 const App = () => {
 
   const [list, setList] = useState<Item[]>([
-    { id: 1, name: 'comprar pão', done: false},
+    { id: 1, name: 'comprar pão', done: true},
     { id: 2, name: 'comprar bolo', done: false}
   ]);
 
