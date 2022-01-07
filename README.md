@@ -1,12 +1,16 @@
-# Todo
+# Todo-App
 
-## Para instalar
-` npm install`
+### Para instalar
 
-## Como funciona
+> npm install
 
-> Este projeto tem a função de ser uma lista onde o usuário pode adicionar tarefas e marcá-las com concluídas ou desmarcá-las.  
+### Para executar
 
+> npm start
+
+### Endereço de site
+
+`https://nervous-perlman-3f07f1.netlify.app/`
 
 ### Tecnologias utilizadas
 
